@@ -1,1 +1,0 @@
-D:\code\vst\HelloWorld\Builds\VisualStudio2022\x64\Debug\App\HelloWorld.exe
